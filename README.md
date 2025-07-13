@@ -1,7 +1,7 @@
 # Windows CIS
-# CIS Windows 11 v4 Remediation Script
+# CIS Windows 11 Stand Alone v4 Remediation Script
 
-This repository contains a PowerShell script designed to help system administrators and security professionals remediate Windows 11 systems according to the Center for Internet Security (CIS) benchmarks. The script automates the implementation of various security controls and best practices outlined in the CIS Windows 11 v4 guidelines.
+This repository contains a PowerShell script designed to help system administrators and security professionals remediate Windows 11 systems according to the Center for Internet Security (CIS) benchmarks. The script automates the implementation of various security controls and best practices outlined in the CIS Windows 11 stand-alone v4 guidelines.
 
 Additionally, there is an Excel file included that contains all the keys and settings referenced in the script for easy reference.
 
@@ -14,7 +14,7 @@ Additionally, there is an Excel file included that contains all the keys and set
 
 ## Features
 
-- Automates the remediation of security settings based on CIS Windows 11 v4 benchmarks.
+- Automates the remediation of security settings based on CIS Windows 11 stand-alone v4 benchmarks.
 - Easy to use and customize for specific organizational needs.
 - Supports both local and remote execution.
 
